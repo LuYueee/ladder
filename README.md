@@ -1,3 +1,5 @@
+https://blog.csdn.net/hjimce/article/details/50877704
+
 This repository contains source code for the experiments in a paper titled
 [_Semi-Supervised Learning with Ladder Networks_](http://arxiv.org/abs/1507.02672) by A Rasmus, H Valpola, M Honkala,
 M Berglund, and T Raiko.
